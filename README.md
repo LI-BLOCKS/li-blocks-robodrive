@@ -76,7 +76,3 @@ robot turn right for 1 seconds
 robot forward for 2 seconds
 robot stop
 ```
-
-## License
-
-MIT
