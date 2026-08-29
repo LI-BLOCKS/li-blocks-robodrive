@@ -1,0 +1,6 @@
+built/
+node_modules/
+pxt_modules/
+.pxt/
+yotta_modules/
+yotta_targets/
