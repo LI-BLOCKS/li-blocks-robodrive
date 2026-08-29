@@ -1,0 +1,23 @@
+{
+    "name": "li-blocks-robodrive",
+    "version": "1.1.0",
+    "description": "LI Blocks RoboDrive - simple forward/backward/turn/stop/speed/timed-movement blocks for a 2-wheel micro:bit + IOBIT V2.0 + L298N robot. Grades 3-5.",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "9.1.1",
+        "pxt": "13.0.1"
+    },
+    "supportedTargets": [
+        "microbit"
+    ]
+}
